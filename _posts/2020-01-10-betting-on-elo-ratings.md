@@ -34,21 +34,19 @@ With these two data sets, we can filter our data to meet the conditions outlined
 
 ### Strategy #1 Results
 
-(/assets/betting-1.svg)
-(/assets/betting-2.svg)
+![](/assets/betting-1.svg)![](/assets/betting-2.svg)
 
 These results are very convincing. For the past five years, assuming a bet amount of $100, we see a **positive final earnings of $2,440.24**, with our strategy leading to a correct bet 72.83% of the time. When applied to the current (2019) regular season, we see **positive final Earnings of $1,003.96**, and a winning bet percentage of 78.43%. This tends to match the general narrative of a greater number of dominant “superteams.”
 
 ### Strategy #2 Results
 
-(/assets/betting-3.svg)
-(/assets/betting-4.svg)
+![](/assets/betting-3.svg)![](/assets/betting-4.svg)
 
 The results of betting against the lowest rated teams is equally as striking. Again, over the past five years, our strategy results in **positive final earnings of $2,785.97**, and a correct bet percentage of 71.94%. Over the most recent season, our strategy results in **final earnings of $80.77**, which is notably lower than the results of our first strategy in the same time period, however still positive.
 
 With legalized sports gambling becoming more widespread, and more individuals entering gambling markets, I hope this analysis may inform future football wagers, and cause others to realize an edge may be gained by using data to inform their bets.
 
-For more details, see this project on [github](https://github.com/michael-rowland/ELO-Betting-Strategy).
+For more details, see this project on [GitHub](https://github.com/michael-rowland/ELO-Betting-Strategy).
 
 ### Further Research Ideas
 - The decision to choose the top and bottom three values was fairly arbitrary, this value could be adjusted in either direction.
