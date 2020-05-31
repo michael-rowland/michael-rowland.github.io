@@ -1,7 +1,7 @@
-site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+# site: Michael Rowland
+url: michaelrow.land
+title: Michael Rowland
+# description: Simple and minimalistic jekyll blogging theme.
 twitter:
   username: #yourusername
   card: summary
