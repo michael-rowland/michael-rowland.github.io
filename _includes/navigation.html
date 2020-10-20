@@ -2,6 +2,7 @@
       <!--<h1 class="logo">{{ site.title }}</h1>-->
       <nav role="navigation">
 <ul>
+   <h3 class="logo">{{ site.title }}</h3>
    {% for item in site.data.navigation.links %}
       <li><a href="{{ item.url }}" {% if item.url == page.url %} class="active"{% endif %}>{{ item.title }}</a></li>
    {% endfor %}
