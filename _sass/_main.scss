@@ -76,7 +76,7 @@ hr {
 
 header {
 	flex-basis:12rem;
-	flex-grow:1;
+	flex-grow:1; 
 	position:relative;
 }
 
@@ -106,7 +106,7 @@ blockquote {
 
 h1,h2,h3,h4,h5 {
 	line-height: 1;
-	margin: 1rem 0;
+	margin-bottom: 1rem;
 	font-weight: 600;
 }
 
@@ -154,9 +154,9 @@ strong, b {
 	font-variant-numeric: tabular-nums;
 }
 
-.post ul, .project ul, .post ol  {
-	//list-style-position: inside;
-}
+// .post ul, .project ul, .post ol  {
+// 	list-style-position: inside;
+// }
 
 main {
 	display:flex;
