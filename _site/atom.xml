@@ -4,7 +4,7 @@
  <title>Michael Rowland</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-10-20T16:01:08-07:00</updated>
+ <updated>2020-10-20T16:10:53-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>Naive Bayes From Scratch</title>
+   <title>Naive Bayes from scratch</title>
    <link href="http://localhost:4000/naive-bayes-from-scratch"/>
    <updated>2020-06-26T00:00:00-07:00</updated>
    <id>http://localhost:4000/naive-bayes-from-scratch</id>

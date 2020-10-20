@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Naive Bayes From Scratch
+title: Naive Bayes from scratch
 comments: false
 ---
 
